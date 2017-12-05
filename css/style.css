@@ -1,0 +1,84 @@
+
+h1 {
+	font-size: 70px;
+	font-family: 'Fjalla One', sans-serif;
+	color: white;
+	text-shadow: white 0 0 10px;
+	background: #333;
+    position: relative;
+    top: 150px;
+    left: 50px;
+    padding-left: 10% ;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 450px;
+  
+}
+
+ 
+
+ h2 {
+	font-size: 60px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	color: #333;
+	position: relative;
+	top: 150px;
+	left: 0%;
+	padding-left: 10%;
+
+	
+	
+}
+
+a {
+	font-size: 40px;
+	font-family: 'Barlow Semi Condensed', sans-serif;
+	position: relative;
+    color: white;
+    text-decoration: none;
+    background: #333;
+    padding: 10px;
+    top: 180px;
+    left: 8%;
+}
+a:hover {
+	color: white;
+	background: gold;
+}
+
+
+
+
+body {
+	width: 720px;
+	height: 1280px;
+	background: #fffef9;
+	/*background-image: url("../img/dia.jpg");
+	background-repeat: no-repeat;*/
+   
+}
+
+
+
+.container {
+	width: 670px;
+	height: 1230px;
+	margin-left: 20%;
+    margin-top: 45%;
+	/*background: white;*/
+}
+
+.container img {
+	width: 800px;
+	height: 570px;
+	position: relative;
+	top: 150px;
+	left: 50px;
+}
+
+img#two {
+	width: 670px;
+	height: 1230px;
+	position: absolute;
+
+} 
